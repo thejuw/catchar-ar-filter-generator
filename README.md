@@ -1,1 +1,31 @@
-IyBDYXRjaEFSIC0gQUktUG93ZXJlZCBBUiBGaWx0ZXIgR2VuZXJhdG9yCgojIyBPdmVydmlldwpDYXRjaEFSIGlzIGFuIGFkdmFuY2VkIEFJLXBvd2VyZWQgcGxhdGZvcm0gZm9yIGdlbmVyYXRpbmcgYW5kIGV4cG9ydGluZyBBUiBmaWx0ZXJzIGFjcm9zcyBtdWx0aXBsZSBzb2NpYWwgbWVkaWEgcGxhdGZvcm1zLgoKIyMgRmVhdHVyZXMKLSBBSS1wb3dlcmVkIGltYWdlIGdlbmVyYXRpb24KLSBDcm9zcy1wbGF0Zm9ybSBBUiBmaWx0ZXIgY3JlYXRpb24KLSBBZHZhbmNlZCBmaWx0ZXIgZ2VuZXJhdGlvbiB0ZWNobmlxdWVzCi0gTXVsdGktbW9kZWwgaW1hZ2UgcHJvY2Vzc2luZwoKIyMgVGVjaG5vbG9neSBTdGFjawotIEJhY2tlbmQ6IEZhc3RBUEkKLSBBSSBNb2RlbHM6IENsYXVkZSwgR3JvawotIERhdGFiYXNlOiBQb3N0Z3JlU1FMCi0gQ29udGFpbmVyaXphdGlvbjogRG9ja2VyCgojIyBHZXR0aW5nIFN0YXJ0ZWQKIyMjIFByZXJlcXVpc2l0ZXMKLSBQeXRob24gMy45KwotIERvY2tlcgotIEFQSSBLZXlzIGZvciBDbGF1ZGUgYW5kIEdyb2sKCiMjIyBJbnN0YWxsYXRpb24KMSBDbG9uZSB0aGUgcmVwb3NpdG9yeQoyIFNldCB1cCB2aXJ0dWFsIGVudmlyb25tZW50CjMgSW5zdGFsbCBkZXBlbmRlbmNpZXMKNCBDb25maWd1cmUgZW52aXJvbm1lbnQgdmFyaWFibGVzCgojIyBMaWNlbnNlCk1JVCBMaWNlbnNl
+# CatchAR - AI-Powered AR Filter Generator
+
+## Overview
+CatchAR is an advanced AI-powered platform for generating and exporting AR filters across multiple social media platforms.
+
+## Features
+- AI-powered image generation
+- Cross-platform AR filter creation
+- Advanced filter generation techniques
+- Multi-model image processing
+
+## Technology Stack
+- Backend: FastAPI
+- AI Models: Claude, Grok
+- Database: PostgreSQL
+- Containerization: Docker
+
+## Getting Started
+### Prerequisites
+- Python 3.9+
+- Docker
+- API Keys for Claude and Grok
+
+### Installation
+1. Clone the repository
+2. Set up virtual environment
+3. Install dependencies
+4. Configure environment variables
+
+## License
+MIT License
